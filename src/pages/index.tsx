@@ -109,9 +109,9 @@ export default function Home() {
             </p>
           </a>
         </div>
+        <div style={{ height: "30vh" }}></div>
         <div
           style={{
-            marginTop: "10vh",
             height: "100vh",
             width: "100%",
             display: "flex",
